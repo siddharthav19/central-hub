@@ -1,0 +1,13 @@
++so on a high level this would be our goal
+
++i am tired of searching in medium, dev.to, and some other sites, so all i want is to be able to search for a topic in a central place (this project is just for me though)
+
++so on a high level the goal is to build a pipeline which will get posts from various tech related blogs/sites and syncs them in a postgres database/any database or elastic search (research on the type of database which is suited for my use case), and applies a full text search so that i will be able to get the stuff i want in few seconds
+ the schedule of this pipeline is every 24hours (according to my sleep schedule this will run everyday at 7AM IST, assuming i sleep at 2:00 or 3:00 PM)
+
+
++Apache Airflow
++Medallion architecture
++Data Lake
+
+again the whole point of this project is to be a go to place for me
